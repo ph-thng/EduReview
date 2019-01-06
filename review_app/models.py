@@ -26,7 +26,7 @@ class Schools(models.Model):
 class SchoolReviews(models.Model):
     rating_choices = (
         (1, '1'),
-        (2. '2'),
+        (2, '2'),
         (3, '3'),
         (4, '4'),
         (5, '5'),
